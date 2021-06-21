@@ -54,11 +54,11 @@ Categories of venues and their numbers by suburb
 
 ### Data Source
 
-General information of suburbs in Metropolitan Melbourne (https://en.wikipedia.org/wiki/List_of_Melbourne_suburbs)
-Nominatim API to extract geographical coordinates of each suburb (https://nominatim.org/release-docs/develop/api/Overview/)
-Crime Statistics Agency Data Tables - Criminal Incidents (https://discover.data.vic.gov.au/dataset/crime-by-location-data-table)
-Rental Report - Quarterly: Moving Annual Rents by Suburb (https://discover.data.vic.gov.au/dataset/rental-report-quarterly-moving-annual-rents-by-suburb)
-Foursquare API to extract venues information (https://developer.foursquare.com/docs/places-api/)
+- General information of suburbs in Metropolitan Melbourne (https://en.wikipedia.org/wiki/List_of_Melbourne_suburbs)
+- Nominatim API to extract geographical coordinates of each suburb (https://nominatim.org/release-docs/develop/api/Overview/)
+- Crime Statistics Agency Data Tables - Criminal Incidents (https://discover.data.vic.gov.au/dataset/crime-by-location-data-table)
+- Rental Report - Quarterly: Moving Annual Rents by Suburb (https://discover.data.vic.gov.au/dataset/rental-report-quarterly-moving-annual-rents-by-suburb)
+- Foursquare API to extract venues information (https://developer.foursquare.com/docs/places-api/)
 
 
 ## Getting Started
