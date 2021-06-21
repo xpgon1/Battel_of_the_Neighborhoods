@@ -47,10 +47,10 @@ In this project, all data was collected from free and public available datasets.
 
 Based on the project's objective, the datasets used in this project will cover the following sectors:
 
-General information by suburb including name, postcode, coordinates, and council which it belongs to
-Types of crime incidents and their frequencies recorded by suburb
-Number of rental properties available and their median prices by suburb
-Categories of venues and their numbers by suburb
+- General information by suburb including name, postcode, coordinates, and council which it belongs to
+- Types of crime incidents and their frequencies recorded by suburb
+- Number of rental properties available and their median prices by suburb
+- Categories of venues and their numbers by suburb
 
 ### Data Source
 
