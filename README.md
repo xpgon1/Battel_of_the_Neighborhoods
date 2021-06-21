@@ -81,4 +81,4 @@ Foursquare API to extract venues information (https://developer.foursquare.com/d
 ### Author
 [Johnny Gong](https://github.com/xpgon1)
 
-[Linkedin Account](linkedin.com/in/johnny-gong-phd-184b28ba)
+[Linkedin Account](https://linkedin.com/in/johnny-gong-phd-184b28ba)
