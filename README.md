@@ -79,4 +79,6 @@ Foursquare API to extract venues information (https://developer.foursquare.com/d
 - [Clustering](https://github.com/xpgon1/Battle_of_the_Neighborhoods/blob/main/Clustering.ipynb)
 
 ### Author
-Johnny Gong (https://github.com/xpgon1)
+[Johnny Gong](https://github.com/xpgon1)
+
+[Linkedin Account](linkedin.com/in/johnny-gong-phd-184b28ba)
