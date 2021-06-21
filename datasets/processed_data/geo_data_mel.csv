@@ -1,0 +1,546 @@
+,Suburb,Postcode,Council,Latitude,Longitude
+0,Melbourne,3000,City of Melbourne,-37.8142176,144.9631608
+1,East Melbourne,3002,City of Melbourne,-37.815588,144.98255534496568
+2,West Melbourne,3003,City of Melbourne,-37.8106885,144.9204039725214
+3,St Kilda Rd,3004,City of Melbourne,-37.8543706,144.9823366
+4,South Wharf,3006,City of Port Phillip,-37.8253445,144.9523945305609
+5,Southbank,3006,City of Port Phillip,-37.8253925,144.96357766652397
+6,Docklands,3008,City of Melbourne,-37.8178695,144.93865434802785
+7,Seddon,3011,City of Maribyrnong,-37.8067725,144.8915967
+8,Footscray,3011,City of Maribyrnong,-37.801366,144.9024240873921
+9,Kingsville,3012,City of Maribyrnong,-37.80884665601401,144.8553793430576
+10,West Footscray,3012,City of Maribyrnong,-37.8017432,144.8840729452263
+11,Brooklyn,3012,City of Brimbank,-37.817333149999996,144.83971479482778
+12,Tottenham,3012,City of Maribyrnong,-37.799274100000005,144.8632065719293
+13,Maidstone,3012,City of Maribyrnong,-37.782117,144.87477217373572
+14,Yarraville,3013,City of Maribyrnong,-37.8158955,144.8899037
+15,South Kingsville,3015,City of Hobsons Bay,-37.8306664,144.8713429
+16,Newport,3015,City of Hobsons Bay,-37.8427411,144.8835623
+17,Spotswood,3015,City of Hobsons Bay,-37.830631,144.885925
+18,Williamstown North,3016,City of Hobsons Bay,-37.8526453,144.8688784
+19,Williamstown,3016,City of Hobsons Bay,-37.86082305772372,144.89629050281698
+20,Altona,3018,City of Hobsons Bay,-37.86715875,144.82949742472704
+21,Seaholme,3018,City of Hobsons Bay,-37.8677992,144.8410816
+22,Braybrook,3019,City of Maribyrnong,-37.7867076,144.8548451
+23,Albion,3020,City of Brimbank,-37.777232,144.82438959720713
+24,Sunshine,3020,City of Brimbank,-37.78251815594479,144.83477602309753
+25,Sunshine North,3020,City of Brimbank,-37.7639467,144.8361969
+26,Sunshine West,3020,City of Brimbank,-37.7983442,144.8110919
+27,Kings Park,3021,City of Brimbank,-37.7337122,144.7719526
+28,St Albans,3021,City of Brimbank,-37.7445766,144.79970234688483
+29,Albanvale,3021,City of Brimbank,-37.7460824,144.7685623
+30,Kealba,3021,City of Brimbank,-37.7371074,144.8282988
+31,Ardeer,3022,City of Brimbank,-37.775605999999996,144.80096188924279
+32,Deer Park,3023,City of Brimbank,-37.7686602,144.7713077
+33,Cairnlea,3023,City of Brimbank,-37.7593157,144.7878098
+34,Burnside,3023,City of Melton,48.440138000000005,-123.37173230232366
+35,Burnside Heights,3023,City of Melton,-37.7324225,144.7555804
+36,Caroline Springs,3023,City of Melton,-37.7660719,144.7355342
+37,Ravenhall,3023,City of Melton,-37.7754956,144.7366326
+38,Mount Cottrell,3024,City of Melton,-37.76249,144.62283
+39,Mambourin,3024,City of Wyndham,-37.8996767,144.554854
+40,Wyndham Vale,3024,City of Wyndham,-37.8722432,144.6084185
+41,Manor Lakes,3024,City of Wyndham,-37.8686285,144.5950127
+42,Altona North,3025,City of Hobsons Bay,-37.8378229,144.8342853
+43,Laverton North,3026,City of Wyndham,-37.8300705,144.7869487
+44,Williams Landing,3027,City of Wyndham,-37.8700305,144.74696725497074
+45,Seabrook,3028,City of Hobsons Bay,-37.87320201265935,144.76313272356998
+46,Laverton,3028,City of Wyndham,-37.8637978,144.7723486
+47,Altona Meadows,3028,City of Hobsons Bay,-37.8814419,144.7845482
+48,Hoppers Crossing,3029,City of Wyndham,-37.8665704,144.6949625
+49,Tarneit,3029,City of Wyndham,-37.8354458,144.6646643
+50,Truganina,3029,City of Melton,-37.8089015,144.721139
+51,Point Cook,3030,City of Wyndham,-37.9064862,144.7533059
+52,Derrimut,3030,City of Brimbank,-37.7987978,144.776051
+53,Cocoroc,3030,City of Wyndham,-37.9748784,144.6286793
+54,Werribee,3030,City of Wyndham,-37.907984,144.64167480741185
+55,Werribee South,3030,City of Wyndham,-37.9734648,144.6922245
+56,Flemington,3031,City of Melbourne,-37.7867587,144.9193668
+58,Kensington,3031,City of Melbourne,-37.7939378,144.9305645
+59,Ascot Vale,3032,City of Moonee Valley,-37.775316,144.921849
+60,Travancore,3032,City of Moonee Valley,-37.7807553,144.935503
+61,Maribyrnong,3032,City of Maribyrnong,-37.7695144,144.8902049
+62,Keilor East,3033,City of Moonee Valley,-37.736732,144.85670574811576
+63,Avondale Heights,3034,City of Moonee Valley,-37.7614537,144.862141
+64,Keilor North,3036,City of Brimbank,-37.6816313,144.7930224
+65,Keilor,3036,City of Brimbank,-37.7116603185969,144.82218012313626
+66,Hillside,3037,City of Melton,-37.6904862,144.7417358
+67,Calder Park,3037,City of Brimbank,-37.6762639,144.7611396
+68,Sydenham,3037,City of Brimbank,-37.6997223,144.7653295
+69,Delahey,3037,City of Brimbank,-37.7198138,144.7773228
+70,Taylors Lakes,3038,City of Brimbank,-37.698633,144.7863077
+71,Keilor Downs,3038,City of Brimbank,-37.7205762,144.8047614
+72,Keilor Lodge,3038,City of Brimbank,-37.6984134,144.7998157
+73,Moonee Ponds,3039,City of Moonee Valley,-37.765935,144.9192614
+74,Aberfeldie,3040,City of Moonee Valley,-37.759857499999995,144.89693982025275
+75,Essendon,3040,City of Moonee Valley,-37.755962999999994,144.91617790401142
+76,Essendon West,3040,City of Moonee Valley,-37.754935,144.88309858410352
+77,Strathmore Heights,3041,City of Moonee Valley,-37.7133663,144.8969057
+78,Strathmore,3041,City of Moonee Valley,-37.74361,144.9273552
+79,Essendon Fields,3041,City of Moonee Valley,-37.7269212,144.9004134
+80,Essendon North,3041,City of Moonee Valley,-37.7384762,144.9012027
+81,Airport West,3042,City of Moonee Valley,-37.7222576,144.8834942
+82,Keilor Park,3042,City of Brimbank,-37.7187247,144.8501721
+83,Niddrie,3042,City of Moonee Valley,-37.73718965,144.86462905846437
+84,Tullamarine,3043,City of Hume,-37.7026345,144.87960476200465
+85,Gowanbrae,3043,City of Moreland,-37.7027183,144.8975976
+86,Gladstone Park,3043,City of Hume,-37.6898311,144.8944658
+87,Pascoe Vale South,3044,City of Moreland,-37.7434265,144.9384767
+88,Pascoe Vale,3044,City of Moreland,-37.7308099,144.9282189
+89,Melbourne Airport,3045,City of Hume,-37.667111000000006,144.83348076679553
+90,Hadfield,3046,City of Moreland,-37.7101582,144.9502764
+91,Glenroy,3046,City of Moreland,-37.70424815,144.9170206764103
+92,Oak Park,3046,City of Moreland,-37.7179979,144.9215308
+93,Jacana,3047,City of Hume,-37.6951482,144.9158281
+94,Broadmeadows,3047,City of Hume,-37.682938750000005,144.91957535173304
+95,Dallas,3047,City of Hume,-37.6708194,144.9354163
+96,Meadow Heights,3048,City of Hume,-37.6511668,144.9185521
+97,Coolaroo,3048,City of Hume,-37.66165505,144.92594915124124
+98,Attwood,3049,City of Hume,-37.6670148,144.884862
+99,Westmeadows,3049,City of Hume,-37.6768765,144.8939017
+100,North Melbourne,3051,City of Melbourne,-37.8076092,144.9423514
+101,Parkville,3052,City of Melbourne,-37.7872505,144.94959567286014
+102,Carlton,3053,City of Melbourne,-37.800143500000004,144.9692678048653
+103,Princes Hill,3054,City of Yarra,-37.7818041,144.9665675
+104,Carlton North,3054,City of Melbourne,-37.7845585,144.9728553
+105,Brunswick West,3055,City of Moreland,-37.7633334,144.9425563
+106,Brunswick,3056,City of Moreland,-37.766704000000004,144.960984381257
+107,Brunswick East,3057,City of Moreland,-37.7688802,144.9776825
+108,Coburg North,3058,City of Darebin,-37.7243476,144.9675198
+109,Coburg,3058,City of Moreland,-37.7450415,144.96399160026903
+110,Greenvale,3059,City of Hume,-37.6377329,144.8810975
+111,Fawkner,3060,City of Moreland,-37.7146727,144.9605203
+112,Campbellfield,3061,City of Hume,-37.666107499999995,144.96133833588988
+113,Somerton,3062,City of Hume,-37.634688,144.9507961
+114,Yuroke,3063,City of Hume,-37.5894631,144.8789803
+115,Oaklands Junction,3063,City of Hume,-37.5780995,144.83374315724268
+116,Donnybrook,3064,City of Whittlesea,-37.5419879,144.9702272
+117,Roxburgh Park,3064,City of Hume,-37.6256945,144.92649612675228
+118,Kalkallo,3064,City of Hume,-37.5309523,144.9496539
+119,Mickleham,3064,City of Hume,-37.5616549,144.8773339
+120,Craigieburn,3064,City of Hume,-37.6022837,144.9430805
+121,Fitzroy,3065,City of Yarra,-37.8009095,144.97915697950845
+122,Collingwood,3066,City of Yarra,-37.8043835,144.9877854175685
+123,Abbotsford,3067,City of Yarra,-37.8037225,145.00002399385244
+124,Fitzroy North,3068,City of Yarra,-37.7833316,144.9837074
+125,Clifton Hill,3068,City of Yarra,-37.78887735,144.99536265376906
+126,Northcote,3070,City of Darebin,-37.77308,145.01032454775785
+127,Thornbury,3071,City of Darebin,-37.7549944,144.9985944
+128,Preston,3072,City of Darebin,-37.74089815667651,145.00573100618806
+129,Reservoir,3073,City of Darebin,-37.7168415,145.0069944
+130,Thomastown,3074,City of Whittlesea,-37.6832672,145.0081104
+131,Lalor,3075,City of Whittlesea,-37.662922,145.003955
+132,Epping,3076,City of Whittlesea,-37.64024171189027,145.01937114108438
+133,Alphington,3078,City of Yarra,-37.7783953,145.0312823
+134,Fairfield,3078,City of Yarra,-37.7791933,145.017005
+135,Ivanhoe East,3079,City of Banyule,-37.7733903,145.0617815
+136,Ivanhoe,3079,City of Banyule,-37.768844,145.0455919
+137,Bellfield,3081,City of Banyule,-37.7531065,145.0384784
+138,Heidelberg West,3081,City of Banyule,-37.7382431,145.0433922
+139,Heidelberg Heights,3081,City of Banyule,-37.7451831,145.0529194
+140,Mill Park,3082,City of Whittlesea,-37.643871250000004,145.06492155517242
+141,Bundoora,3083,City of Darebin,-37.702822999999995,145.05607792450766
+142,Kingsbury,3083,City of Darebin,-37.715569,145.0355601
+143,Eaglemont,3084,City of Banyule,-37.7638101,145.0537229
+144,Viewbank,3084,City of Banyule,-37.7399103,145.0932329
+145,Heidelberg,3084,City of Banyule,-37.7513665,145.06974028141613
+146,Rosanna,3084,City of Banyule,-37.7428013,145.0661769
+147,Macleod,3085,City of Darebin,-37.7261787,145.0691029
+148,Yallambie,3085,City of Banyule,-37.7251655,145.0935218
+149,Watsonia North,3087,City of Banyule,-37.696046,145.084977
+150,Watsonia,3087,City of Banyule,-37.7110022,145.083635
+151,Greensborough,3088,City of Banyule,-37.7040276,145.1082164336504
+152,Briar Hill,3088,City of Banyule,-37.7063703,145.1216479
+153,St Helena,3088,City of Banyule,-37.6895135,145.1295774
+154,Diamond Creek,3089,Shire of Nillumbik,-37.67331,145.1584145
+155,Plenty,3090,Shire of Nillumbik,-37.6674499,145.1123773
+156,Yarrambat,3091,Shire of Nillumbik,-37.6375473,145.1349293
+157,Lower Plenty,3093,City of Banyule,-37.7388437,145.116224
+158,Montmorency,3094,City of Banyule,-37.7152592,145.1214652
+159,Eltham,3095,Shire of Nillumbik,-37.7136622,145.14771859225922
+160,Eltham North,3095,Shire of Nillumbik,-37.6978921,145.1417807
+161,Research,3095,Shire of Nillumbik,-37.7066557,145.189067
+162,Wattle Glen,3096,Shire of Nillumbik,-37.6658942,145.1827651
+163,Bend of Islands,3097,Shire of Nillumbik,-37.700545500000004,145.2779438240625
+164,Kangaroo Ground,3097,Shire of Nillumbik,-37.6918649,145.2158904
+165,Watsons Creek,3097,Shire of Nillumbik,-37.663745,145.26096601597112
+166,Hurstbridge,3099,Shire of Nillumbik,-37.63946,145.1921774
+167,Cottles Bridge,3099,Shire of Nillumbik,-37.6234258,145.2175327
+168,Nutfield,3099,Shire of Nillumbik,-37.6091125,145.1829249
+169,Strathewen,3099,Shire of Nillumbik,-37.5478739,145.2691533
+170,Kew,3101,City of Boroondara,-37.801462,145.04114418275623
+171,Kew East,3102,City of Boroondara,-37.7904215,145.0527906
+172,Deepdene,3103,City of Boroondara,-37.8121234,145.0664377
+173,Balwyn,3103,City of Boroondara,-37.8091737,145.0833678
+174,Balwyn North,3104,City of Boroondara,-37.7919518,145.0842372
+175,Bulleen,3105,City of Manningham,-37.7663109,145.12128101475844
+176,Templestowe,3106,City of Manningham,-37.7540588,145.1486152
+177,Templestowe Lower,3107,City of Manningham,-37.7638749,145.1122762
+178,Doncaster,3108,City of Manningham,-37.782869000000005,145.12231985966855
+179,Doncaster East,3109,City of Manningham,-37.7788744,145.1638815
+180,Donvale,3111,City of Manningham,-37.7898094,145.1914915
+181,North Warrandyte,3113,Shire of Nillumbik,-37.7258538,145.2155463
+182,Warrandyte,3113,City of Manningham,-37.7510785,145.21117735596772
+183,Park Orchards,3114,City of Manningham,-37.7769195,145.2146209
+184,Wonga Park,3115,City of Maroondah,-37.7356804,145.269802
+185,Chirnside Park,3116,Shire of Yarra Ranges,-37.7385835,145.3143181
+186,Burnley,3121,City of Yarra,-37.82762235,145.0080911963464
+187,Richmond,3121,City of Yarra,-37.8203955,145.0025153
+188,Cremorne,3121,City of Yarra,-37.8290227,144.9927735
+189,Hawthorn,3122,City of Boroondara,-37.8286805,145.03443346506867
+190,Hawthorn East,3123,City of Boroondara,-37.8313785,145.0499797
+191,Camberwell,3124,City of Boroondara,-37.83217493526518,145.06710186862443
+192,Burwood,3125,City of Monash,-37.848932,145.11439756441035
+193,Canterbury,3126,City of Boroondara,-37.8247469,145.0807636
+194,Surrey Hills,3127,City of Boroondara,-37.8241183,145.0986212
+195,Mont Albert,3127,City of Boroondara,-37.819535,145.1055334
+196,Box Hill,3128,City of Whitehorse,-37.8215116,145.1261267
+197,Box Hill South,3128,City of Whitehorse,-37.8366236,145.1233644
+198,Box Hill North,3129,City of Whitehorse,-37.8056831,145.1295748
+199,Blackburn South,3130,City of Whitehorse,-37.8388322,145.1487848
+200,Blackburn,3130,City of Whitehorse,-37.8201304,145.1500224266129
+201,Blackburn North,3130,City of Whitehorse,-37.8053801,145.154324
+202,Forest Hill,3131,City of Whitehorse,-37.8362738,145.1690911
+203,Nunawading,3131,City of Manningham,-37.82050305,145.175128826511
+204,Mitcham,3132,City of Whitehorse,-37.8180423,145.1928735
+205,Vermont South,3133,City of Whitehorse,-37.854386,145.1878065
+206,Vermont,3133,City of Whitehorse,-37.8384616,145.1993471
+207,Ringwood North,3134,City of Maroondah,-37.791987500000005,145.2336103279894
+208,Ringwood,3134,City of Maroondah,-37.815861999999996,145.22911978787735
+209,Warranwood,3134,City of Maroondah,-37.77263,145.25072627089548
+210,Warrandyte South,3134,City of Manningham,-37.7610033,145.2373853
+211,Ringwood East,3135,City of Maroondah,-37.8118681,145.2502993
+212,Heathmont,3135,City of Maroondah,-37.8283667,145.2445824
+213,Croydon,3136,City of Maroondah,-37.7954483,145.2804735
+214,Croydon Hills,3136,City of Maroondah,-37.7759541,145.2671081
+215,Croydon North,3136,City of Maroondah,-37.7718843,145.2839524
+216,Croydon South,3136,City of Maroondah,-37.815805999999995,145.28030593997673
+217,Kilsyth South,3137,City of Maroondah,-37.8315054,145.3110008
+218,Kilsyth,3137,City of Maroondah,-37.81899,145.30924531538835
+219,Mooroolbark,3138,Shire of Yarra Ranges,-37.7847785,145.312599
+220,Wandin East,3139,Shire of Yarra Ranges,-37.8142115,145.4557704319111
+221,Wandin North,3139,Shire of Yarra Ranges,-37.779923,145.42671813238437
+222,Seville East,3139,Shire of Yarra Ranges,-37.7743,145.4988109
+223,Seville,3139,Shire of Yarra Ranges,-37.7782042,145.4594001
+224,Woori Yallock,3139,Shire of Yarra Ranges,-37.7793329,145.5301262
+225,Beenak,3139,Shire of Yarra Ranges,-37.900408,145.63650750764526
+226,Don Valley,3139,Shire of Yarra Ranges,-37.7608659,145.5868732
+227,Launching Place,3139,Shire of Yarra Ranges,-37.780956,145.57762407169707
+228,Hoddles Creek,3139,Shire of Yarra Ranges,-37.8417716,145.5931415
+229,Yellingbo,3139,Shire of Yarra Ranges,-37.8135132,145.5082046
+230,Lilydale,3140,Shire of Yarra Ranges,-37.7556696,145.3475477
+231,South Yarra,3141,City of Stonnington,-37.8377695,144.9918537
+232,Toorak,3142,City of Stonnington,-37.8419445,145.01790099686235
+233,Armadale,3143,City of Stonnington,-37.8567619,145.0206905
+234,Kooyong,3144,City of Stonnington,-37.841843,145.0357953178156
+235,Malvern East,3145,City of Stonnington,-37.876835,145.0658739
+236,Caulfield East,3145,City of Glen Eira,-37.881276,145.0420847
+237,Glen Iris,3146,City of Boroondara,-37.856533999999996,145.0677422195622
+238,Ashburton,3147,City of Boroondara,-37.862047,145.0812907
+239,Ashwood,3147,City of Monash,-37.8634605,145.10291300152056
+240,Chadstone,3148,City of Monash,-37.8822799,145.1001365
+241,Mount Waverley,3149,City of Monash,-37.8752637,145.1281258
+242,Glen Waverley,3150,City of Monash,-37.879667749999996,145.16291624893952
+243,Wheelers Hill,3150,City of Monash,-37.9103266,145.1895175
+244,Burwood East,3151,City of Whitehorse,-37.8535935,145.150423
+245,Wantirna,3152,City of Knox,-37.8523357,145.2259721
+246,Wantirna South,3152,City of Knox,-37.8737902,145.2217475
+247,Bayswater North,3153,City of Maroondah,-37.825642,145.28405996292918
+248,Bayswater,3153,City of Knox,-37.8413656,145.2677624
+249,The Basin,3154,City of Knox,-37.8556937,145.3214075
+250,Boronia,3155,City of Knox,-37.860645,145.2848446
+251,Upper Ferntree Gully,3156,City of Knox,-37.899021,145.31000756153847
+252,Ferntree Gully,3156,City of Knox,-37.8815788,145.2951489
+253,Lysterfield,3156,Shire of Yarra Ranges,-37.9348771,145.3017588
+254,Lysterfield South,3156,City of Casey,-37.953233,145.26694949464738
+255,Upwey,3158,Shire of Yarra Ranges,-37.9052161,145.3279903
+256,Menzies Creek,3159,Shire of Yarra Ranges,-37.9190646,145.4068204
+257,Selby,3159,Shire of Yarra Ranges,-37.9187608,145.3784097
+258,Belgrave,3160,Shire of Yarra Ranges,-37.9120505,145.35387348294896
+259,Belgrave South,3160,Shire of Yarra Ranges,-37.9424023,145.3573383
+260,Belgrave Heights,3160,Shire of Yarra Ranges,-37.9266116,145.3525247
+261,Tecoma,3160,Shire of Yarra Ranges,-37.90806535,145.34294768017955
+262,Caulfield North,3161,City of Glen Eira,-37.870828,145.0218005
+263,Caulfield,3162,City of Glen Eira,-37.8840642,145.02637
+264,Caulfield South,3162,City of Glen Eira,-37.894699,145.0249323
+265,Carnegie,3163,City of Glen Eira,-37.8933729,145.0559135
+266,Glen Huntly,3163,City of Glen Eira,-37.8923791,145.0413689
+267,Murrumbeena,3163,City of Glen Eira,-37.8968653,145.0703808
+268,Bentleigh East,3165,City of Glen Eira,-37.9220201,145.0665529
+269,Hughesdale,3166,City of Monash,-37.897776,145.08177559738823
+270,Huntingdale,3166,City of Monash,-37.9110567,145.1025037724831
+271,Oakleigh East,3166,City of Monash,-37.9039215,145.1153403
+272,Oakleigh,3166,City of Monash,-37.9066691,145.1113071043693
+273,Oakleigh South,3167,City of Monash,-37.9248257,145.0921745
+274,Notting Hill,3168,City of Monash,-37.905582,145.1455616
+275,Clayton,3168,City of Monash,-37.91230316293263,145.1400455283888
+276,Clayton South,3169,City of Kingston,-37.9430924,145.125236
+277,Clarinda,3169,City of Kingston,-37.9431093,145.1060206
+278,Mulgrave,3170,City of Monash,-37.9261741,145.1723107
+279,Springvale,3171,City of Greater Dandenong,-37.94958925,145.1537826170871
+280,Dingley Village,3172,City of Kingston,-37.9755762,145.1256478
+281,Springvale South,3172,City of Greater Dandenong,-37.9708611,145.1478692
+282,Keysborough,3173,City of Greater Dandenong,-38.0053607,145.1674069
+283,Noble Park North,3174,City of Greater Dandenong,-37.9512702,145.1908377
+284,Noble Park,3174,City of Greater Dandenong,-37.965974,145.17761634628977
+285,Bangholme,3175,City of Greater Dandenong,-38.044242,145.1756546548975
+286,Dandenong South,3175,City of Greater Dandenong,-38.0279936,145.2209236
+287,Dandenong North,3175,City of Greater Dandenong,-37.9558319,145.2143234
+288,Dandenong,3175,City of Greater Dandenong,-37.9900945,145.2097382471987
+289,Eumemmerring,3177,City of Casey,-37.9985273,145.2469497
+290,Doveton,3177,City of Casey,-37.9887542,145.2385975
+291,Rowville,3178,City of Knox,-37.9239267,145.2447672
+292,Scoresby,3179,City of Knox,-37.9025786,145.2183066
+293,Knoxfield,3180,City of Knox,-37.8897731,145.2496342
+294,Windsor,3181,City of Stonnington,-37.8557913,144.99158467300157
+295,St Kilda West,3182,City of Port Phillip,-37.8579958,144.9712452
+296,St Kilda,3182,City of Port Phillip,-37.8638261,144.981637
+297,St Kilda East,3183,City of Glen Eira,-37.8668218,145.0021657
+298,Balaclava,3183,City of Port Phillip,-37.86992145,144.99342786739248
+299,Elwood,3184,City of Port Phillip,-37.88096,144.98556293885335
+300,Ripponlea,3185,City of Port Phillip,-37.8758915,144.9952063
+301,Elsternwick,3185,City of Glen Eira,-37.88499375,145.0010230862578
+302,Gardenvale,3185,City of Glen Eira,-37.8981194,145.0091824
+303,Brighton,3186,City of Bayside,-37.90640923579724,145.0013673043699
+304,Brighton East,3187,City of Glen Eira,-37.9171728,145.0163663
+305,Hampton,3188,City of Bayside,-37.9381127,145.0014764
+306,Hampton East,3188,City of Bayside,-37.9385409,145.0306726
+307,Moorabbin,3189,City of Kingston,-37.9414646,145.0578383
+308,Highett,3190,City of Kingston,-37.9484438,145.04188
+309,Sandringham,3191,City of Bayside,-37.967412249999995,145.03530252814454
+310,Cheltenham,3192,City of Kingston,-37.9670081,145.0546951
+311,Black Rock,3193,City of Bayside,-37.973392000000004,145.02431619790457
+312,Beaumaris,3193,City of Bayside,-37.9822122,145.0389098
+313,Mentone,3194,City of Kingston,-37.981859110523246,145.0609483979061
+314,Moorabbin Airport,3194,City of Kingston,-37.9776828,145.10106518578584
+315,Waterways,3195,City of Kingston,-38.0147783,145.1305166
+316,Parkdale,3195,City of Kingston,-37.9930643,145.0762768
+317,Braeside,3195,City of Kingston,-38.0005245,145.1229578
+318,Aspendale Gardens,3195,City of Kingston,-38.0236925,145.12349826806673
+319,Mordialloc,3195,City of Kingston,-38.0067174,145.0875658
+320,Aspendale,3195,City of Kingston,-38.0219105,145.1024159
+321,Edithvale,3196,City of Kingston,-38.037788750000004,145.1083509081285
+322,Bonbeach,3196,City of Kingston,-38.063011,145.12791869294037
+323,Chelsea,3196,City of Kingston,-38.052450050000004,145.11626031637326
+324,Chelsea Heights,3196,City of Kingston,-38.0395381,145.132786
+325,Carrum,3197,City of Kingston,-38.0769786,145.1229404
+326,Patterson Lakes,3197,City of Kingston,-38.0694493,145.1432329
+327,Seaford,3198,City of Frankston,-38.1039807,145.1282346
+328,Frankston,3199,City of Frankston,-38.1444729,145.1268808
+329,Frankston South,3199,City of Frankston,-38.1760405,145.13296292939444
+330,Frankston North,3200,City of Frankston,-38.1228524,145.1609788
+331,Carrum Downs,3201,City of Frankston,-38.0927904,145.1758001
+332,Heatherton,3202,City of Kingston,-37.9560844,145.0932067
+333,Bentleigh,3204,City of Glen Eira,-37.9175354,145.0369346
+334,McKinnon,3204,City of Glen Eira,-37.9109769,145.0381437
+335,Ormond,3204,City of Glen Eira,-37.9035653,145.039503
+336,South Melbourne,3205,City of Port Phillip,-37.8334603,144.9570188
+337,Middle Park,3206,City of Port Phillip,-37.8511511,144.9620399
+338,Albert Park,3206,City of Port Phillip,-37.8477725,144.96200797154074
+339,Port Melbourne,3207,City of Melbourne,-37.8333613,144.9219203
+340,Little River,3211,City of Wyndham,-37.9639273,144.5009868
+341,Plumpton,3335,City of Melton,-37.6727808,144.6993618
+342,Rockbank,3335,City of Melton,-37.7291013,144.6505805
+343,Melton,3337,City of Melton,-37.6835714,144.5828446
+344,Melton West,3337,City of Melton,-37.6798651,144.5528895
+345,Toolern Vale,3337,City of Melton,-37.6074215,144.5941995
+346,Kurunjang,3337,City of Melton,-37.669930405769236,144.57225356057424
+347,Eynesbury,3338,City of Melton,-37.7908381,144.5561657
+348,Exford,3338,City of Melton,-37.728423,144.54280724950183
+349,Brookfield,3338,City of Melton,-37.6993389,144.5405513
+350,Melton South,3338,City of Melton,-37.7060279,144.5717723
+351,Parwan,3340,City of Melton,-37.736028000000005,144.46943693986435
+352,Quandong,3030,City of Wyndham,-37.8388844,144.5538125
+353,Diggers Rest,3427,City of Hume,-37.6275995,144.7200075
+354,Bulla,3428,City of Hume,-37.6347957,144.8027227
+355,Wildwood,3429,City of Hume,-37.564815499999995,144.80150446821517
+356,Sunbury,3429,City of Hume,-37.5796938,144.7295281
+357,Clarkefield,3430,City of Hume,-37.4835828,144.7452422
+358,Matlock,3723,Shire of Yarra Ranges,-37.598542,146.2077112
+359,Wollert,3750,City of Whittlesea,-37.5939889,145.0337333
+360,South Morang,3752,City of Whittlesea,-37.6316767,145.0836353
+361,Beveridge,3753,City of Whittlesea,-37.4712651,144.9745663
+362,Doreen,3754,Shire of Nillumbik,-37.5963874,145.1428928
+363,Mernda,3754,City of Whittlesea,-37.6027435,145.1008348
+364,Woodstock,3751,City of Whittlesea,-37.54608,145.05437385869567
+365,Yan Yean,3755,Shire of Nillumbik,-37.569134,145.107832
+366,Humevale,3757,City of Whittlesea,-37.5036895,145.17373990734265
+367,Eden Park,3757,City of Whittlesea,-37.4950097,145.071621
+368,Whittlesea,3757,City of Whittlesea,-37.5121301,145.1177321
+369,Panton Hill,3759,Shire of Nillumbik,-37.6413636,145.2390413
+370,Smiths Gully,3760,Shire of Nillumbik,-37.6041172,145.2678984
+371,St Andrews,3761,Shire of Nillumbik,-37.6027182,145.272874
+372,Bylands,3762,Shire of Nillumbik,-37.3536757,144.9613626
+373,Kinglake,3763,Shire of Nillumbik,-37.5327424,145.341131
+374,Montrose,3765,Shire of Yarra Ranges,-37.8106247,145.3421513
+375,Kalorama,3766,Shire of Yarra Ranges,-37.8194174,145.372162
+376,Mount Dandenong,3767,Shire of Yarra Ranges,-37.8321508,145.3551849
+377,Yering,3770,Shire of Yarra Ranges,-37.6887134,145.3746571
+378,Gruyere,3770,Shire of Yarra Ranges,-37.728937,145.46349262290056
+379,Coldstream,3770,Shire of Yarra Ranges,-37.7291014,145.378424
+380,Yarra Glen,3775,Shire of Yarra Ranges,-37.6573475,145.3743964
+381,Christmas Hills,3775,Shire of Nillumbik,-37.6528089,145.3206126
+382,Dixons Creek,3775,Shire of Yarra Ranges,-37.6369196,145.4004418
+383,Steels Creek,3775,Shire of Yarra Ranges,-37.6018982,145.3781986
+384,Tarrawarra,3775,Shire of Yarra Ranges,-37.656597500000004,145.4427632713592
+385,Healesville,3777,Shire of Yarra Ranges,-37.6537218,145.5161533
+386,Mount Toolebewong,3777,Shire of Yarra Ranges,-37.719438,145.56166153206345
+387,Chum Creek,3777,Shire of Yarra Ranges,-37.6364618,145.5188488
+388,Badger Creek,3777,Shire of Yarra Ranges,-37.6829253,145.5343263
+389,Kinglake West,3757,Shire of Nillumbik,-37.478028,145.25571422949724
+390,Fernshaw,3778,Shire of Yarra Ranges,-37.6092565,145.61809025925433
+391,Cambarville,3779,Shire of Yarra Ranges,-37.618967,146.02928243384474
+392,Nangana,3781,Shire of Cardinia,-37.8739125,145.53704463551998
+393,Mount Burnett,3781,Shire of Cardinia,-37.975735,145.5109613520352
+394,Cockatoo,3781,Shire of Cardinia,-37.9299135,145.5127551
+395,Macclesfield,3782,Shire of Yarra Ranges,-37.8818575,145.48982338338925
+396,Avonsleigh,3782,Shire of Cardinia,-37.9137505,145.4821547325546
+397,Emerald,3782,Shire of Cardinia,-37.932111,145.4407248
+398,Clematis,3782,Shire of Cardinia,-37.92846175,145.4234619883003
+399,Gembrook,3783,Shire of Cardinia,-37.9527594,145.550276
+400,Tremont,3785,Shire of Yarra Ranges,-37.8788598,145.3157699
+401,Ferny Creek,3786,Shire of Yarra Ranges,-37.8752857,145.3350823
+402,Sassafras,3787,City of Knox,-37.86602131804376,145.35043014449346
+403,Olinda,3788,Shire of Yarra Ranges,-37.843742,145.3855733
+404,Sherbrooke,3789,Shire of Yarra Ranges,-37.8884448,145.3593565
+405,Kallista,3791,Shire of Yarra Ranges,-37.8858076,145.3729123
+406,The Patch,3792,Shire of Yarra Ranges,-37.8901143,145.3912949
+407,Monbulk,3793,Shire of Yarra Ranges,-37.875031,145.42601926058416
+408,Silvan,3795,Shire of Yarra Ranges,-37.8232257,145.4196179
+409,Mount Evelyn,3796,Shire of Yarra Ranges,-37.7873186,145.3883037
+410,Three Bridges,3797,Shire of Yarra Ranges,-37.852686,145.68001159293397
+411,Yarra Junction,3797,Shire of Yarra Ranges,-37.7821693,145.6150255
+412,Gilderoy,3797,Shire of Yarra Ranges,-37.8547073,145.7128179
+413,Gladysdale,3797,Shire of Yarra Ranges,-37.8197569,145.6514748
+414,Powelltown,3797,Shire of Yarra Ranges,-37.8630657,145.7514607
+415,Reefton,3799,Shire of Yarra Ranges,-37.6699217,145.902273443318
+416,Big Pats Creek,3799,Shire of Yarra Ranges,-37.7838203,145.7594082
+417,McMahons Creek,3799,Shire of Yarra Ranges,-37.695943,145.83764725400803
+418,Wesburn,3799,Shire of Yarra Ranges,-37.7661584,145.646268
+419,Warburton,3799,Shire of Yarra Ranges,-37.7536223,145.6887265
+420,Millgrove,3799,Shire of Yarra Ranges,-37.7515012,145.6612026
+421,Warburton East,3799,Shire of Yarra Ranges,-37.7536223,145.6887265
+422,Monash University,3800,City of Monash,-37.91412095,145.13166042002237
+423,Endeavour Hills,3802,City of Casey,-37.9702665,145.2563443
+424,Hallam,3803,City of Casey,-38.0178749,145.2701904
+425,Narre Warren East,3804,Shire of Yarra Ranges,-37.9627116,145.361856
+426,Narre Warren North,3804,City of Casey,-37.9813391,145.3129016
+427,Narre Warren,3805,City of Casey,-38.0276567,145.3036255
+428,Narre Warren South,3805,City of Casey,-38.04913355,145.30398976081932
+429,Berwick,3806,City of Casey,-38.0396628,145.3449342
+430,Harkaway,3806,City of Casey,-38.0002695,145.3416887
+431,Beaconsfield,3807,Shire of Cardinia,-38.0509221,145.3660938
+432,Guys Hill,3807,Shire of Cardinia,-38.0140905,145.3928311875
+433,Beaconsfield Upper,3808,Shire of Cardinia,-37.9985205,145.42541204955882
+434,Officer,3809,Shire of Cardinia,-38.0662738,145.4116132
+435,Officer South,3809,Shire of Cardinia,-38.10365,145.42468194130805
+436,Dewhurst,3808,Shire of Cardinia,-37.9761335,145.47387508579544
+437,Pakenham Upper,3810,Shire of Cardinia,-38.0084715,145.50972059844565
+438,Rythdale,3810,Shire of Cardinia,-38.14086,145.46192293724448
+439,Pakenham South,3810,Shire of Cardinia,-38.14086,145.50287960729847
+440,Pakenham,3810,Shire of Cardinia,-38.0803615,145.4858119
+441,Nar Nar Goon,3812,Shire of Cardinia,-38.1139765,145.57539275145623
+442,Nar Nar Goon North,3812,Shire of Cardinia,-38.0294375,145.56356990645372
+443,Maryknoll,3812,Shire of Cardinia,-38.0343975,145.6019913877144
+444,Tynong,3813,Shire of Cardinia,-38.0830345,145.6268414
+445,Tynong North,3813,Shire of Cardinia,-38.028615,145.63783764500587
+446,Garfield,3814,Shire of Cardinia,-38.0898677,145.676222
+447,Vervale,3814,Shire of Cardinia,-38.138194,145.6616419647493
+448,Garfield North,3814,Shire of Cardinia,-38.042083500000004,145.6858870105145
+449,Cora Lynn,3814,Shire of Cardinia,-38.1436888,145.6042711
+450,Iona,3815,Shire of Cardinia,45.9620046,-60.8049985
+451,Bunyip North,3815,Shire of Cardinia,-38.062416999999996,145.7242651232318
+452,Tonimbuk,3815,Shire of Cardinia,-38.0150415,145.7225419188827
+453,Bunyip,3815,Shire of Cardinia,-38.0971242,145.7208993
+454,Longwarry,3816,Shire of Cardinia,-38.1258285,145.76549109868236
+455,Modella,3816,Shire of Cardinia,-38.1864393,145.7150142
+456,Toorongo,3833,Shire of Yarra Ranges,-37.7786785,146.0831699915434
+457,Koo Wee Rup North,3810,Shire of Cardinia,-38.145267000000004,145.5371992735536
+458,Lang Lang East,3984,Shire of Cardinia,-38.270215,145.65643605931228
+459,Yannathan,3981,Shire of Cardinia,-38.2242665,145.65067561205592
+460,Langwarrin,3910,City of Frankston,-38.1545829,145.1973931
+461,Baxter,3911,Shire of Mornington Peninsula,-38.19409545,145.16049114999998
+462,Langwarrin South,3911,City of Frankston,-38.1891024,145.1910633
+463,Somerville,3912,Shire of Mornington Peninsula,-38.22542,145.1763347
+464,Pearcedale,3912,City of Casey,-38.2015815,145.242198
+465,Tyabb,3913,Shire of Mornington Peninsula,-38.2637008,145.1871641
+466,Tuerong,3915,Shire of Mornington Peninsula,-38.297586499999994,145.0912156558374
+467,Hastings,3915,Shire of Mornington Peninsula,-38.3056058,145.1859934
+468,Shoreham,3916,Shire of Mornington Peninsula,-38.41356585294118,145.05232528337683
+469,Point Leo,3916,Shire of Mornington Peninsula,-38.4190327,145.0752586
+470,Merricks,3916,Shire of Mornington Peninsula,-38.3965045,145.0818519195679
+471,Bittern,3918,Shire of Mornington Peninsula,-38.3375798,145.1773289
+472,Crib Point,3919,Shire of Mornington Peninsula,-38.3523582,145.2029503
+473,HMAS Cerberus,3920,Shire of Mornington Peninsula,-38.381676999999996,145.19405481236242
+474,Merricks North,3926,Shire of Mornington Peninsula,-38.3413135,145.07185054255206
+475,Merricks Beach,3926,Shire of Mornington Peninsula,-38.394609,145.1067050799831
+476,Balnarring Beach,3926,Shire of Mornington Peninsula,-38.3913565,145.12104870238096
+477,Balnarring,3926,Shire of Mornington Peninsula,-38.3707915,145.1171365
+478,Somers,3927,Shire of Mornington Peninsula,-38.3923474,145.1726499
+479,Main Ridge,3928,Shire of Mornington Peninsula,-38.40212699999999,144.96713589959523
+480,Flinders,3929,Shire of Mornington Peninsula,-38.473312,145.0187057
+481,Mount Eliza,3930,Shire of Mornington Peninsula,-38.1837759,145.0892789
+482,Mornington,3931,Shire of Mornington Peninsula,-38.2197962,145.0412592
+483,Moorooduc,3933,Shire of Mornington Peninsula,-38.245686,145.11612767494114
+484,Mount Martha,3934,Shire of Mornington Peninsula,-38.2754676,145.0307737
+485,Dromana,3936,Shire of Mornington Peninsula,-38.3418285,144.9655838
+486,Arthurs Seat,3936,Shire of Mornington Peninsula,-38.3543449,144.9537421
+487,Safety Beach,3936,Shire of Mornington Peninsula,-38.3153642,145.000282
+488,Red Hill South,3937,Shire of Mornington Peninsula,-38.384139000000005,145.04182274566475
+489,Red Hill,3937,Shire of Mornington Peninsula,-38.3799499,145.0264267
+490,McCrae,3938,Shire of Mornington Peninsula,-38.3599791,144.9338501
+491,Rosebud,3939,Shire of Mornington Peninsula,-38.3710325,144.9095115
+492,Boneo,3939,Shire of Mornington Peninsula,-38.408315,144.9017984934954
+493,Cape Schanck,3939,Shire of Mornington Peninsula,-38.467203,144.90477309383203
+494,Fingal,3939,Shire of Mornington Peninsula,-38.418945,144.8598726550419
+495,Capel Sound,3940,Shire of Mornington Peninsula,-38.3737241,144.8755654
+496,Tootgarook,3941,Shire of Mornington Peninsula,-38.3777277,144.8502239
+497,Rye,3941,Shire of Mornington Peninsula,-38.3821684,144.8099264
+498,St Andrews Beach,3941,Shire of Mornington Peninsula,-38.4199773,144.83117
+499,Blairgowrie,3942,Shire of Mornington Peninsula,-38.3687445,144.7722682
+500,Sorrento,3943,Shire of Mornington Peninsula,-38.3447273,144.7420938
+501,Portsea,3944,Shire of Mornington Peninsula,-38.3228212,144.7004208
+502,Lyndhurst,3975,City of Greater Dandenong,-38.0685384,145.2307493
+503,Lynbrook,3975,City of Casey,-38.0558639,145.2561128
+504,Hampton Park,3976,City of Casey,-38.0367368,145.2590312
+505,Cranbourne North,3977,City of Casey,-38.0775184,145.2989039
+506,Sandhurst,3977,City of Frankston,-38.0819428,145.21039
+507,Cranbourne East,3977,City of Casey,-38.1080912,145.3056221
+508,Junction Village,3977,City of Casey,-38.1363443,145.2968697
+509,Cannons Creek,3977,City of Casey,-38.2114954,145.3112899
+510,Devon Meadows,3977,City of Casey,-38.1620178,145.3024933
+511,Cranbourne,3977,City of Casey,-38.1087442,145.2834004
+512,Botanic Ridge,3977,City of Casey,-38.1413786,145.2566183
+513,Skye,3977,City of Frankston,-38.104736,145.21522830450988
+514,Tooradin North,3977,Shire of Cardinia,-38.2138303,145.3816827
+515,Cranbourne South,3977,City of Casey,-38.149080999999995,145.24078050121045
+516,Cranbourne West,3977,City of Casey,-38.102241,145.2517182
+517,Clyde,3978,City of Casey,-38.1326345,145.3290375
+518,Clyde North,3978,City of Casey,-38.1028681,145.3302814
+519,Cardinia,3978,Shire of Cardinia,-38.145351000000005,145.42370174231593
+520,Warneet,3980,City of Casey,-38.2213749,145.3117316
+521,Tooradin,3980,City of Casey,-38.2138303,145.3816827
+522,Blind Bight,3980,City of Casey,-38.2142175,145.3377629
+523,Bayles,3981,Shire of Cardinia,-38.1769736,145.573224
+524,Koo Wee Rup,3981,Shire of Cardinia,-38.1990553,145.492854
+525,Heath Hill,3981,Shire of Cardinia,-38.2415336,145.7049968
+526,Dalmore,3981,Shire of Cardinia,-38.187886500000005,145.41800868020277
+527,Catani,3981,Shire of Cardinia,-38.1948042,145.6413285
+528,Monomeith,3984,Shire of Cardinia,-38.212619,145.53228243579235
+529,Lang Lang,3984,Shire of Cardinia,-38.2660405,145.5627778
+530,Caldermeade,3984,Shire of Cardinia,-38.2460012,145.538131
+531,Nyora,3987,Shire of Cardinia,-38.3347289,145.6708903
+532,Prahran,3181,City of Stonnington,-37.852879,145.0060381806452
+533,Malvern,3144,City of Stonnington,-37.858429,145.03476435221472
+534,Mont Albert North,3129,City of Whitehorse,-37.8033152,145.1107226
+535,Fraser Rise,3336,City of Melton,-37.7059863,144.7174013
+536,Deanside,3336,City of Melton,-37.72120012563312,144.68937652157837
+537,Taylors Hill,3037,City of Melton,-37.14879,144.67154
+538,Fieldstone,3024,City of Melton,-37.7498668,144.6482563
+539,Grangefields,3335,City of Melton,-37.7000297,144.6351268
+540,Harkness,3337,City of Melton,-37.6567808,144.5525264
+541,Strathtulloh,3338,City of Melton,-37.7324394,144.5975017
+542,Weir Views,3338,City of Melton,-37.7323715,144.5708942
+543,Thornhill Park,3335,City of Melton,-37.7274099,144.6259215
+544,Cobblebank,3338,City of Melton,-37.7125512,144.6040773
+545,Aintree,3336,City of Melton,-37.7193933,144.6694023
