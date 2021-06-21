@@ -36,7 +36,7 @@ As a part of the plan, the company will provide accommodations to their senior-l
 
 - 15kms in radius distance or equivalently 30mins travel time to the office during peak hours (Office will be in Docklands, VIC 3008)
 - An affordable rental price with a large volume of rental properties available in the market
-- Safe area with low assaulting class crime
+- Safe area with low assaulting class crime incidents
 - Easy to access venues such as restaurants, cafe, and parks.
 
 The objective of this project is to apply clustering to categorize the suburbs in metropolitan Melbourne based on recorded crime incidents, venue categories, and rental status in 2020. A feature evaluation will be carried out for each set of cluster. Finally, the cluster with the desired features will be recommended to the company as suitable accommodations locations.
