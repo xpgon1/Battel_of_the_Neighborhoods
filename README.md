@@ -72,11 +72,11 @@ Based on the project's objective, the datasets used in this project will cover t
 4. Images and Graphs presented in the notebooks can be found at [./images/battle_of_neighborhoods](https://github.com/xpgon1/Battle_of_the_Neighborhoods/tree/main/images/battle_of_neighborhoods)
 
 ## Featured Notebooks
-- [Data Collection and Cleaning](https://github.com/xpgon1/Battle_of_the_Neighborhoods/blob/main/Data_collection_and_cleaning.ipynb)
+- [Data Collection and Cleaning](https://github.com/xpgon1/Battle_of_the_Neighborhoods/tree/main/notebooks/Data_collection_and_cleaning.ipynb)
 
-- [Data Exploring and Preprocessing](https://github.com/xpgon1/Battle_of_the_Neighborhoods/blob/main/Data_exploring_and_preprocessing.ipynb)
+- [Data Exploring and Preprocessing](https://github.com/xpgon1/Battle_of_the_Neighborhoods/tree/main/notebooks/Data_exploring_and_preprocessing.ipynb)
 
-- [Clustering](https://github.com/xpgon1/Battle_of_the_Neighborhoods/blob/main/Clustering.ipynb)
+- [Clustering](https://github.com/xpgon1/Battle_of_the_Neighborhoods/tree/main/notebooks/Clustering.ipynb)
 
 ### Author
 [Johnny Gong](https://github.com/xpgon1)
